@@ -169,9 +169,9 @@
 		84247F5827FA6A25002FC4C4 /* UIComponentsHelper */ = {
 			isa = PBXGroup;
 			children = (
+				84247F5D27FA6A73002FC4C4 /* ViperProtocols.swift */,
 				84247F5927FA6A38002FC4C4 /* BaseCell.swift */,
 				84247F5B27FA6A56002FC4C4 /* ReusableView.swift */,
-				84247F5D27FA6A73002FC4C4 /* ViperProtocols.swift */,
 				84247F5F27FA6A9A002FC4C4 /* BaseViewController.swift */,
 			);
 			path = UIComponentsHelper;
